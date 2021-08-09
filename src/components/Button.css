@@ -1,0 +1,13 @@
+  .Button a {
+    text-decoration: none;
+    color: #5114a6;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 600;
+  }
+  
+  .Button a:not(:last-child) {
+    margin-bottom: 2020px;
+  }
+  

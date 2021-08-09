@@ -1,0 +1,94 @@
+@font-face {
+  font-family: DX유니고딕 30 중간;
+  src:
+      local('DX유니고딕 30 중간'),
+      url('/fonts/DX유니고딕 30 중간.ttf');
+}
+
+/* Desktop (default) */
+.nav {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.navTitle {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  color: #5114a6;
+  
+}
+
+.navTitle a {
+  text-decoration: none;
+  color: #5114a6;
+  font-size: 40px;
+  font-weight: 1000;
+  font-family: DX유니고딕 30 중간;
+
+}
+
+.navLogin {
+  margin: 5px 0 5px 0;
+  float: right;
+  width: 150px;
+  height: 30px;
+}
+
+.navLogin a{
+  display: inline;
+  text-decoration: none;
+  color: #5114a6;
+  text-transform: uppercase;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 600;
+}
+
+
+/* Mobile */
+@media (max-width:600px) {
+  .nav {
+  background-color: red;
+  width: 0px;
+}
+
+.navTitle {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  color: #5114a6;
+  /* background-color: green; */
+  background-position: center;
+  text-align: center;
+  margin: auto;
+  width: 400px
+}
+  
+  .navTitle a {
+    text-decoration: none;
+    color: #5114a6;
+    font-size: 25px;
+    font-weight: 1000;
+    font-family: DX유니고딕 30 중간;
+  
+  }
+  
+  .navLogin {
+    margin: 5px -500px 0px 100px;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    float: right;
+  }
+  
+  .navLogin a{
+    display: inline;
+    text-decoration: none;
+    color: #5114a6;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 600;
+  }
+
+}

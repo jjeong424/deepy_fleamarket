@@ -1,0 +1,82 @@
+.LoginContainer {
+  /* box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25),
+    0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025); */
+  padding: 10px;
+  border-radius: 5px;
+  /* background-color: white; */
+  margin: 0 auto;
+  margin-top: 200px;
+  width: auto;
+  height: auto;
+  max-width: 400px;
+  font-weight: 300;
+}
+
+.LoginTitle {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: #5114a6;
+  font-size: 50px;  
+  font-weight: 600;
+}
+
+.RegisterButton {
+    padding-bottom: 40px;
+    padding-left: 250px;
+}
+
+#LoginButton {
+  display: block;
+  width: 80px;
+  margin: 40px auto;
+}
+
+.loginForm {
+  width: 200px;
+  margin: 20px auto;
+}
+
+@media (max-width:600px) {
+  .LoginContainer {
+    /* box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25),
+      0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025); */
+    padding: 10px;
+    border-radius: 5px;
+    /* background-color: red; */
+    margin: 0 200px 100px 150px;
+    margin-top: 200px;
+    width: auto;
+    height: auto;
+    width: 1000px;
+    font-weight: 300;
+    background-position: center;
+  }
+  
+  .LoginTitle {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #5114a6;
+    font-size: 50px;  
+    font-weight: 600;
+    width: 400px;
+  }
+  
+  .RegisterButton {
+      padding-bottom: 40px;
+      padding-left: 250px;
+      width: 500px;
+  }
+  
+  #LoginButton {
+    display: block;
+    width: 80px;
+    margin: 40px auto;
+  }
+  
+  .loginForm {
+    width: 1000px;
+    margin: 20px auto;
+  }
+}

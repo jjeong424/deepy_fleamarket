@@ -1,0 +1,77 @@
+@font-face {
+    font-family: DX유니고딕 30 중간;
+    src:
+        local('DX유니고딕 30 중간'),
+        url('/fonts/DX유니고딕 30 중간');
+  }
+
+/* Desktop (default) */
+
+.Header {
+    clear: both;
+    font-family: DX하늘구름 중간;
+    margin: auto;
+}
+
+.Header_banner {
+    background-image: url("./Sample/fleaBanner.png");
+    height: 150px;
+    width: 1000px;
+    margin: auto;
+}
+
+
+.kakao {
+    margin : 100px 0px 0px 0px;
+    width: 50px;
+    height: auto;
+    display: block;
+    line-height: 100px;
+}
+
+.inText {
+    font-size: 10px;
+    font-family: DX유니고딕 30 중간;
+    font-weight: 1000;
+    margin: 0px 0px 10px 0px;
+    color:black;
+    width: 100px;
+}
+
+
+/* Mobile */
+@media (max-width:800px) {
+    .Header {
+        clear: both;
+        font-family: DX하늘구름 중간;
+        margin: auto;
+        /* background-color: seagreen; */
+        width: 375px;
+    }
+    
+    .Header_banner {
+        background-image: url("./Sample/fleaBanner.png");
+        height: 150px;
+        width: 700px;
+        margin: 0 auto;
+        background-position: center;
+    }
+
+    .kakao {
+        margin : 10px 0px 0px 0px;
+        width: 80px;
+        height: auto;
+        display: block;
+        line-height: 100px;
+    }
+
+    .inText {
+        font-size: 15px;
+        font-family: DX유니고딕 30 중간;
+        font-weight: 1000;
+        margin: 0px 0px 10px 0px;
+        color:black;
+        width: 375px;
+        /* background-color: red; */
+    }
+}

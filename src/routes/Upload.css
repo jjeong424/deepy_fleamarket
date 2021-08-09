@@ -1,0 +1,62 @@
+.uploadContainer {
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: auto;
+    height: auto;
+    max-width: 1000px;
+    font-weight: 300;
+  }
+
+.uploadTitle {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #5114a6;
+    font-size: 50px;
+    font-weight: 9000;
+  }
+
+.uploadForm {
+    width: 600px;
+    margin: 40px auto;
+}
+
+.uploadFreeview {
+  background-color:#efefef;
+   width: 150px;
+   height: 150px;
+}
+
+.txtBoxS {
+  width: 540px;
+}
+
+.txtBoxL {
+  width: 540px;
+  height: 100px;
+}
+
+@media (max-width:800px) {
+  .uploadContainer {
+    padding: 10px;
+    border-radius: 5px;
+    margin: 60px;
+    margin-top: 30px;
+    width: auto;
+    height: auto;
+    max-width: 1000px;
+    font-weight: 300;
+  }
+
+  .uploadTitle {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 230px;
+    text-align: center;
+    color: #5114a6;
+    font-size: 50px;
+    font-weight: 9000;
+  }
+}

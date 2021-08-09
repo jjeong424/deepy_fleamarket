@@ -1,0 +1,27 @@
+.RegisterContainer {
+    /* box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25),
+      0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025); */
+    padding: 10px;
+    border-radius: 5px;
+    /* background-color: white; */
+    margin: 0 auto;
+    margin-top: 30px;
+    width: auto;
+    height: auto;
+    max-width: 900px;
+    font-weight: 300;
+  }
+
+  .RegisterTitle {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #5114a6;
+    font-size: 50px;
+    font-weight: 600;
+  }
+
+  .RegisterForm {
+      width: 200px;
+      margin: 60px auto;
+  }

@@ -1,0 +1,18 @@
+.LoginForm {
+    padding: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.InputData {
+    color: #5114a6;
+    font-size: 12px;
+    font-weight: 400;
+    padding-bottom: 5px;
+}
+
+.InputBox {
+    width: 300px;
+    border-color: white;
+    
+}
