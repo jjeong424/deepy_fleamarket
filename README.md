@@ -13,7 +13,7 @@ React를 이용한 플리마켓 웹사이트입니다.
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/RestfulAPI-ccc?style=flat-square)
 
-<hr style="border: solid 1px fefefe;">
+<hr style="border:0px; height:1px; background:fefefe;">
 
 ### 🍀 주요기능
 ![004](src/images/004.png)
