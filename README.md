@@ -1,6 +1,8 @@
 # Deepy Fleamarket
 React를 이용한 플리마켓 웹사이트입니다.
 
+<hr style="border: solid 1px fefefe;">
+
 ### ⚒ 사용기술
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -10,6 +12,8 @@ React를 이용한 플리마켓 웹사이트입니다.
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/RestfulAPI-ccc?style=flat-square)
+
+<hr style="border: solid 1px fefefe;">
 
 ### 🍀 주요기능
 ![004](src/images/004.png)
