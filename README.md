@@ -12,3 +12,7 @@ React를 이용한 플리마켓 웹사이트입니다.
 ![PYTHON](https://img.shields.io/badge/RestfulAPI-ccc?style=flat-square)
 
 ### 🍀 주요기능
+![004](src/images/004.png)
+![005](src/images/005.png)
+![006](src/images/006.png)
+![007](src/images/007.png)
